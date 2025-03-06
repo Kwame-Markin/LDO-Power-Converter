@@ -1,2 +1,2 @@
 # LDO-Power-Converter
-An LDO Power Converter for 5V to 3.3V
+An LDO Power Converter for 5V to 3.3V using Altium
